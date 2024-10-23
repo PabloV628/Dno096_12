@@ -30,7 +30,6 @@
         "nombre": "Aplicación Dialifit",
         "descripcion": "Aplicación de ejercicio para pacientes de diálisis peritoneal. Su diseño se basó en las necesidades reales de los pacientes, obtenidas mediante entrevistas y cuestionarios. Luego, se diseñaron sus funciones mediante Figma.",
         "fecha": "2024",
-        "signo": "app",
         "signo": "ux",
         "foto": "https://github.com/user-attachments/assets/4eac00cc-2790-4211-acd3-7fb4973e8a67",
         "fotos":["diali-1.jpg","diali-2.jpg","diali-3.jpg"],
