@@ -1,6 +1,6 @@
 [
     {
-        "nombre": "Poster de película EEAAO",
+        "nombre": "Poster EEAAO",
         "descripcion": "Poster de créditos de Everything Everywhere All at Once. Este proyecto se destaca por su edición fotográfica. Mediante la distorsión de la imagen y la repetición de la tipografía se representa el caos y la perdida de identidad que sufre la protagonista.",
         "fecha": "2023",
         "signo": "editorial",
@@ -9,7 +9,7 @@
         "github": "https://github.com/pablov628"
     },
     {
-        "nombre": "Los datos bajo la mirada feminista",
+        "nombre": "Infografía feminista",
         "descripcion": "Infografía sobre feminismo. Este trabajo se destaca por su jerarquización de elementos, estableciendo dos ejes centrales mediante las imágenes: uno relacionado con el feminismo y el otro con los problemas que surgen en su ausencia.",
         "fecha": "2023",
         "signo": "editorial",
@@ -63,7 +63,7 @@
         "github": "https://github.com/pablov628"
     },
     {
-        "nombre": "Fanzine Encuentro tipográfico",
+        "nombre": "Encuentro tipográfico",
         "descripcion": "Fanzine a color que compara y destaca las tipografías de dos diseñadores. Tiene un diseño dinámico ya que las formas y características de las páginas están pensadas para resaltar los caracteres y así mantener el interés del lector.",
         "fecha": "2023",
         "signo": "editorial",
