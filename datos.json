@@ -63,7 +63,7 @@
         "github": "https://github.com/pablov628"
     },
     {
-        "nombre": "Encuentro tipográfico",
+        "nombre": "Fanzine tipográfico",
         "descripcion": "Fanzine a color que compara y destaca las tipografías de dos diseñadores. Tiene un diseño dinámico ya que las formas y características de las páginas están pensadas para resaltar los caracteres y así mantener el interés del lector.",
         "fecha": "2023",
         "signo": "editorial",
@@ -88,6 +88,24 @@
         "signo": "branding",
         "foto": "https://github.com/user-attachments/assets/deb67fd1-f265-4d01-ad56-d400f9cf8b94",
         "fotos":["bugamb-1.jpg","bugamb-2.jpg","bugamb-3.jpg"],
+        "github": "https://github.com/pablov628"
+    },
+     {
+        "nombre": "Studypet",
+        "descripcion": "Aplicación para niños con TDAH. Su diseño se enfocó en ser amigable, tierno y fácil de usar, motivando al niño a hacer sus tareas mediante la personalización de una mascota.",
+        "fecha": "2022",
+        "signo": "ux",
+        "foto": "https://github.com/user-attachments/assets/503f8194-149e-4535-9f04-b61de4be2816",
+        "fotos":["study-1.jpg","study-2.jpg","study-3.jpg"],
+        "github": "https://github.com/pablov628"
+    },
+     {
+        "nombre": "Irregular",
+        "descripcion": "Libro experimental cocido a mano. Acerca de la conexión y similitud entre los patrones irregulares de la naturaleza y el cuerpo humano. Utiliza páginas recortadas interactivas que ocultan imágenes hasta que se voltea la página, revelando su contenido.",
+        "fecha": "2022",
+        "signo": "editorial",
+        "foto": "https://github.com/user-attachments/assets/00338e6c-71d6-483e-938d-121abf0c3c4b",
+        "fotos":["irre-1.jpg","irre-2.jpg","irre-3.jpg"],
         "github": "https://github.com/pablov628"
     }
 ]
