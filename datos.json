@@ -109,4 +109,14 @@
         "fotos":["study-1.jpg","study-2.jpg","study-3.jpg"],
         "github": "https://github.com/pablov628"
     }
+    {
+        "nombre": "@Ian_laser",
+        "descripcion": "Aplicación para niños con TDAH. Su diseño se enfocó en ser amigable, tierno y fácil de usar, motivando al niño a hacer sus tareas mediante la personalización de una mascota.",
+        "fecha": "2022",
+        "signo": "ux",
+        "foto": "https://github.com/user-attachments/assets/703df170-6349-4292-8b2f-343a2183dd88",
+        "foto2": "https://github.com/user-attachments/assets/a0475d36-439a-4817-bde8-4db03470b038",
+        "fotos":["study-1.jpg","study-2.jpg","study-3.jpg"],
+        "github": "https://github.com/pablov628"
+    }
 ]
